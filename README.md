@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou João 👋
 
-<!--
-**sukyia/sukyia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Tecnologia da Informação  
+💻 Aprendendo programação e desenvolvimento web  
+🚀 Interesses: Python, HTML e CSS  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)
