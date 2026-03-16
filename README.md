@@ -1,6 +1,6 @@
 # Olá, eu sou João 👋
 
-🎓 Estudante de Tecnologia da Informação  
+🎓 Estudante de Desenvolvimento de Sistemas pela ETEC
 💻 Aprendendo programação e desenvolvimento web  
 🚀 Interesses: Python, HTML e CSS  
 
